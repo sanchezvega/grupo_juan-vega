@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1457703544 source:c:\users\diana marcela\documents\actual\microprocesadores\adelanto 11 marzo\memoria ram\finalpuerto\main.c
+	"procesador.h"
+	"ports.h"
+
+1457101572 c:\users\diana marcela\documents\actual\microprocesadores\adelanto 11 marzo\memoria ram\finalpuerto\procesador.h
+	<avr/io.h>
+	<util/delay.h>
+
+1457703542 c:\users\diana marcela\documents\actual\microprocesadores\adelanto 11 marzo\memoria ram\finalpuerto\ports.h
+

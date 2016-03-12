@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1457734298 source:c:\users\diana marcela\desktop\com\main.c
+	"procesador.h"
+	"ports.h"
+
+1457101572 c:\users\diana marcela\desktop\com\procesador.h
+	<avr/io.h>
+	<util/delay.h>
+
+1457101563 source:c:\users\diana marcela\desktop\com\procesador.c
+	"procesador.h"
+
+1457734305 c:\users\diana marcela\desktop\com\ports.h
+
